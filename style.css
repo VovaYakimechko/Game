@@ -1,7 +1,13 @@
+body{
+    background: url(img/BG.png) no-repeat;
+    background-size: 100%;
+}
+
 
 .tabs {
     max-width: 800px;
-
+    margin-top: 150px;
+    margin-left: 20%;
 }
 .tabs__caption {
     display: -webkit-flex;
